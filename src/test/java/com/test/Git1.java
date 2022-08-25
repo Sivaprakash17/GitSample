@@ -14,5 +14,20 @@ public class Git1 {
 		System.out.println("DAY 3 CLASS");
 
 	}
+	
+	private void day1Temple() {
+		System.out.println("DAY 3 CLASS");
+
+	}
+	
+	private void day2Park() {
+		System.out.println("DAY 3 CLASS");
+
+	}
+	
+	private void day3Beach() {
+		System.out.println("DAY 3 CLASS");
+
+	}
 
 }
