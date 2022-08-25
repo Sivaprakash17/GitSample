@@ -14,5 +14,20 @@ public class Git1 {
 		System.out.println("DAY 3 CLASS");
 
 	}
+	
+	private void javaClass() {
+		System.out.println("BASIC CLASS");
+
+	}
+	
+	private void seleniumClass() {
+		System.out.println("AUTOMATION CLASS");
+
+	}
+	
+	private void pythonclass() {
+		System.out.println("PYTHON");
+
+	}
 
 }
